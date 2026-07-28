@@ -1,7 +1,2 @@
 ---
-tenants:
-  - tenant_id: demo_alpha
-    team_name: Alpha DevOps
-    tenant_scm_org: aap-casc-tenant-demo-alpha
-    onboarding_mode: greenfield
-    status: active
+tenants: []

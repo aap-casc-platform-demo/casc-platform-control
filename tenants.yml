@@ -5,3 +5,8 @@ tenants:
     tenant_scm_org: aap-casc-tenant-demo-alpha
     onboarding_mode: greenfield
     status: active
+  - tenant_id: demo_bravo
+    team_name: Bravo Engineering
+    tenant_scm_org: aap-casc-tenant-demo-bravo
+    onboarding_mode: greenfield
+    status: active
